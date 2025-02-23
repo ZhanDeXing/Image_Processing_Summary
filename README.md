@@ -1,6 +1,6 @@
-# Special_Image_Processing
+# Image_Processing
 
-**特殊视频分析**
+**图像增强处理**
 
 确保当前运行的python环境下已安装cv2，否则请在环境终端运行：
 
